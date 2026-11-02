@@ -1,6 +1,6 @@
 # 在 Axios 中设置代理
 
-[![推广](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://www.bright.cn/proxy-types/residential-proxies) 
+[![推广](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo%20%281%29.png)](https://www.bright.cn/proxy-types/residential-proxies) 
 
 本 Axios 代理指南涵盖以下主题：
 
