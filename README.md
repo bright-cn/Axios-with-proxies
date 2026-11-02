@@ -348,7 +348,7 @@ axios.get(targetURL, {
 1. 直接在代理 URL 中添加凭据：
 
 ```js
-var proxyAgent = new SocksProxyAgent("http://admin:[email protected]:8391")
+var proxyAgent = new SocksProxyAgent("http://admin:lK4w90MEe45YIkOpk@156.127.0.192:8391")
 ```
 
 2. 在 [URL](https://nodejs.org/api/url.html) 对象中设置 `username` 和 `password` 选项：
